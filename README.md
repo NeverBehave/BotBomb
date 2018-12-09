@@ -4,7 +4,7 @@ Blow them away
 
 # Alias
 
-`sql.tar.gz` -> `10GB.tar.gz` (gzip bomb) 
+`sql.tar.gz`, `main.js`, `main.css`, etc. -> `10GB.tar.gz` (gzip bomb) 
 
 ## Why?
 
