@@ -6,6 +6,8 @@ Blow them away
 
 `sql.tar.gz`, `main.js`, `main.css`, etc. -> `10GB.tar.gz` (gzip bomb) 
 
+There are also `1tb.bin`, etc. Please check out [here](https://docker.shit.shit.xn--i2r989d.xn--6qq986b3xl)
+
 ## Why?
 
 Web crawlers are clever and they won't follow 30x response.
